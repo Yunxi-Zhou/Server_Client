@@ -1,0 +1,6 @@
+Form Title
+Forms
+Panels
+Boxes
+|-Scalable Grid Layout-Read-Only Multi-Line Text Box-Write-Only Multi-Line Text Box, Enter Chat Content-Scalable Grid Layout
+  |Connect Button - Disconnect Button
